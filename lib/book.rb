@@ -8,7 +8,8 @@ class Book
     "And Then There Were None"
   end
   
-  def author name
+  def author name=(author)
+    @author =  author
   end
 
   def page count
