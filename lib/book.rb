@@ -9,14 +9,11 @@ class Book
   end
   
   def author name
-    @author =  author
-  end
-  
-  def author
-    @author
+    "Agatha Christie"
   end
 
-  def page count
+  def page count=(num)
+    @page_count =  num
   end
  
   def genre
