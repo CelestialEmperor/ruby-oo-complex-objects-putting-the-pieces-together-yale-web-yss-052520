@@ -8,7 +8,7 @@ class Book
     "And Then There Were None"
   end
   
-  def author name=(author)
+  def author name
     @author =  author
   end
   
