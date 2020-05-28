@@ -4,7 +4,7 @@ class Book
   end
  
   def title
-    And Then There Were None"
+    "And Then There Were None"
   end
   
   def author name
