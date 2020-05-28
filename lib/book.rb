@@ -4,14 +4,12 @@ class Book
   end
  
   def title
+    ""
   end
   
   def author name
   end
- 
-  def author name
-  end
-  
+
   def page count
   end
  
